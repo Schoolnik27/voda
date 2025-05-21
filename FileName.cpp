@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 
-    // Расчеты
+    /// Расчеты
     W = 0.02 * S + 0.05 * n;
     Q = W / t;
 
